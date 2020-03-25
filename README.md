@@ -1,2 +1,2 @@
-# taller3
-Aquí estan los trabajos que he realizado durante el semestre para la clase de taller 3 - 1S de 2020
+# PARE BOLAS 
+Aquí esta la primera verson del proyecto de segundo corte - pare bolas es un juego que busca mejorar la atención de las personas. 
